@@ -14,3 +14,7 @@ El script realiza las siguientes funciones:
 4. Calcula el factorial del número ingresado.
 5. Muestra los resultados en la página web.
 6. Si el número ingresado esta fuera de rango, se envia un alert y el código no se ejecuta.
+
+## Autor
+
+- **Desarrolladora**: [Victoria Azola Silva](https://github.com/VickyAzola) - Responsable del desarrollo del código.
